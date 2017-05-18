@@ -1,1 +1,2602 @@
-{"Disconnect": "toVisit", "Paranoid Park": "toVisit", "The Kid": "toVisit", "Dear White People": "toVisit", "Swing Vote": "toVisit", "Hands of Steel": "toVisit", "Silver Bells": "toVisit", "Day of the Dead (1985)": "toVisit", "Cape Fear": "toVisit", "Volcano": "toVisit", "Batman: The Dark Knight Returns (Part 2)": "toVisit", "All the President's Men": "toVisit", "V for Vendetta": "toVisit", "Windsor Drive": "toVisit", "Midnight Sex Run": "toVisit", "Billy Bathgate": "done", "Butch Cassidy And The Sundance Kid": "toVisit", "The Bourne Ultimatum": "toVisit", "Charlie Chaplin: The Kid": "toVisit", "The Octagon": "toVisit", "The Stunt Man": "toVisit", "Omar": "toVisit", "Deadly Paradise": "toVisit", "The Spirit": "toVisit", "Obvious Child": "toVisit", "Patriots Day": "toVisit", "Honey": "toVisit", "Dirty Laundry": "toVisit", "Guess Who": "toVisit", "Watership Down": "toVisit", "Cemetery of Splendor": "toVisit", "Candleshoe": "toVisit", "Eternal Sunshine Of The Spotless Mind": "toVisit", "Bridgend": "toVisit", "Backgammon": "toVisit"}
+{
+    "Endless Love": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/endless-love-2456.html", 
+        "Release": "2016"
+    }, 
+    "Ice Age: Continental Drift": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/ice-age-continental-drift-2026.html", 
+        "Release": "1984"
+    }, 
+    "Swing Vote": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/swing-vote-10684.html", 
+        "Release": "1974"
+    }, 
+    "Barry": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/barry--18455.html", 
+        "Release": "2001"
+    }, 
+    "Hands of Steel": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/hands-of-steel-19298.html", 
+        "Release": "1974"
+    }, 
+    "Special Id": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/special-id-2135.html", 
+        "Release": "1994"
+    }, 
+    "Volcano": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/volcano-6899.html", 
+        "Release": "1974"
+    }, 
+    "Housefull": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/housefull-16639.html", 
+        "Release": "1994"
+    }, 
+    "The Other (1972)": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-other-1972-16819.html", 
+        "Release": "1984"
+    }, 
+    "Tooth Fairy": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/tooth-fairy-7951.html", 
+        "Release": "2016"
+    }, 
+    "Vikingdom": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/vikingdom-2830.html", 
+        "Release": "1984"
+    }, 
+    "Anna and the King": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/anna-and-the-king-10517.html", 
+        "Release": "1994"
+    }, 
+    "Lone Star": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/lone-star-14291.html", 
+        "Release": "1984"
+    }, 
+    "Frances Ha": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/frances-ha-3845.html", 
+        "Release": "2015"
+    }, 
+    "37 (2016)": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/37-16973.html", 
+        "Release": "1994"
+    }, 
+    "Parenthood": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/parenthood-9236.html", 
+        "Release": "1990"
+    }, 
+    "The Quiet Man": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-quiet-man-15026.html", 
+        "Release": "2001"
+    }, 
+    "Tortoise in Love": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/tortoise-in-love-18035.html", 
+        "Release": "2016"
+    }, 
+    "Hombre": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/hombre-18510.html", 
+        "Release": "2015"
+    }, 
+    "Betrayed": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/betrayed-18842.html", 
+        "Release": "2016"
+    }, 
+    "20,000 Leagues Under the Sea": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/20000-leagues-under-the-sea-10585.html", 
+        "Release": "1976"
+    }, 
+    "The Love Witch": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-love-witch-19238.html", 
+        "Release": "2016"
+    }, 
+    "Swindle": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/swindle-8185.html", 
+        "Release": "2016"
+    }, 
+    "Alto": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/alto-6583.html", 
+        "Release": "1990"
+    }, 
+    "Cleaner": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/cleaner-6483.html", 
+        "Release": "1954"
+    }, 
+    "Heropanti": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/heropanti-1760.html", 
+        "Release": "2001"
+    }, 
+    "Breakin'": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/breakin-9999.html", 
+        "Release": "1994"
+    }, 
+    "Peyton Place": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/peyton-place-12861.html", 
+        "Release": "1954"
+    }, 
+    "Harry and the Hendersons": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/harry-and-the-hendersons-7156.html", 
+        "Release": "2016"
+    }, 
+    "The Bodyguard": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-bodyguard-7616.html", 
+        "Release": "1954"
+    }, 
+    "Omar": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/omar-10224.html", 
+        "Release": "1974"
+    }, 
+    "Blackbird": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/blackbird-4625.html", 
+        "Release": "2016"
+    }, 
+    "Hollywood Chainsaw Hookers": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/hollywood-chainsaw-hookers-18343.html", 
+        "Release": "1994"
+    }, 
+    "Labor Day": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/labor-day-2965.html", 
+        "Release": "2015"
+    }, 
+    "Upside Down": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/upside-down-2242.html", 
+        "Release": "2015"
+    }, 
+    "Savannah": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/savannah-11915.html", 
+        "Release": "2001"
+    }, 
+    "Honey": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/honey-8090.html", 
+        "Release": "1974"
+    }, 
+    "Disorderlies": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/disorderlies-11080.html", 
+        "Release": "1984"
+    }, 
+    "Guess Who": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/guess-who-4730.html", 
+        "Release": "1974"
+    }, 
+    "Wild Bill": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/wild-bill-11018.html", 
+        "Release": "2016"
+    }, 
+    "Obvious Child": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/obvious-child-2500.html", 
+        "Release": "1974"
+    }, 
+    "Liberal Arts": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/liberal-arts-10890.html", 
+        "Release": "1994"
+    }, 
+    "All the President's Men": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/all-the-presidents-men-12816.html", 
+        "Release": "1974"
+    }, 
+    "Disconnect": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/disconnect-9175.html", 
+        "Release": "1974"
+    }, 
+    "The Details": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-details-12078.html", 
+        "Release": "2015"
+    }, 
+    "A Man Called Ove": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/a-man-called-ove-18381.html", 
+        "Release": "1954"
+    }, 
+    "Cheap Thrills": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/cheap-thrills-3737.html", 
+        "Release": "1990"
+    }, 
+    "Shut In": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/shut-in-18085.html", 
+        "Release": "2015"
+    }, 
+    "Mulan (2009)": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/mulan-2009-16943.html", 
+        "Release": "1990"
+    }, 
+    "10 Cent Pistol": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/10-cent-pistol-4624.html", 
+        "Release": "1994"
+    }, 
+    "New York New York": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/new-york-new-york-12845.html", 
+        "Release": "1990"
+    }, 
+    "Fargo 1996": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/fargo-1996-5027.html", 
+        "Release": "2001"
+    }, 
+    "Frank": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/frank-3072.html", 
+        "Release": "1990"
+    }, 
+    "White Oleander": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/white-oleander-9238.html", 
+        "Release": "2016"
+    }, 
+    "August: Osage County": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/august-osage-county-3155.html", 
+        "Release": "1954"
+    }, 
+    "Rosemarys Baby": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/rosemarys-baby-5203.html", 
+        "Release": "1984"
+    }, 
+    "Lady in Cement": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/lady-in-cement-18887.html", 
+        "Release": "2015"
+    }, 
+    "Alice: Boy from Wonderland": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/alice-boy-from-wonderland-18422.html", 
+        "Release": "1984"
+    }, 
+    "The Chronicles of Narnia: The Voyage of the Dawn Treader": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader-7931.html", 
+        "Release": "1984"
+    }, 
+    "Solomon Kane": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/solomon-kane-12456.html", 
+        "Release": "1954"
+    }, 
+    "If I Stay": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/if-i-stay-2497.html", 
+        "Release": "2015"
+    }, 
+    "The Secret Life of Pets": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-secret-life-of-pets-14600.html", 
+        "Release": "2016"
+    }, 
+    "Bicycle Thieves": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/bicycle-thieves-10532.html", 
+        "Release": "2015"
+    }, 
+    "Behaving Badly": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/behaving-badly-2516.html", 
+        "Release": "2016"
+    }, 
+    "Despicable Me": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/despicable-me-4327.html", 
+        "Release": "1954"
+    }, 
+    "Morris from America": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/morris-from-america-15540.html", 
+        "Release": "1990"
+    }, 
+    "Barbershop": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/barbershop-4665.html", 
+        "Release": "1990"
+    }, 
+    "Pulse": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/pulse-16936.html", 
+        "Release": "1954"
+    }, 
+    "Angus Thongs and Perfect Snogging": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/angus-thongs-and-perfect-snogging-7773.html", 
+        "Release": "1984"
+    }, 
+    "Hello Again": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/hello-again-6895.html", 
+        "Release": "1976"
+    }, 
+    "Tekken": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/tekken-20232.html", 
+        "Release": "1976"
+    }, 
+    "Wuthering High School": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/wuthering-high-school-4396.html", 
+        "Release": "2001"
+    }, 
+    "The Hungover Games": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-hungover-games-5920.html", 
+        "Release": "1994"
+    }, 
+    "Apollo 13": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/apollo-13-4724.html", 
+        "Release": "1984"
+    }, 
+    "Coconut Hero": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/coconut-hero-9784.html", 
+        "Release": "2001"
+    }, 
+    "The Sisterhood of the Traveling Pants 2": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-sisterhood-of-the-traveling-pants-2-9195.html", 
+        "Release": "1994"
+    }, 
+    "Pleasantville": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/pleasantville-10568.html", 
+        "Release": "2015"
+    }, 
+    "Daylight": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/daylight-10086.html", 
+        "Release": "2016"
+    }, 
+    "Nine": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/nine-7495.html", 
+        "Release": "2001"
+    }, 
+    "My Tutor": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/my-tutor-17749.html", 
+        "Release": "1984"
+    }, 
+    "The Choice": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-choice-9846.html", 
+        "Release": "1954"
+    }, 
+    "Backgammon": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/backgammon--19356.html", 
+        "Release": "1974"
+    }, 
+    "Yosemite": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/yosemite-10272.html", 
+        "Release": "1984"
+    }, 
+    "Spike Island": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/spike-island-10484.html", 
+        "Release": "1984"
+    }, 
+    "The Librarian: Return to King Solomon's Mines": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-librarian-return-to-king-solomons-mines-18409.html", 
+        "Release": "1954"
+    }, 
+    "The Ultimate Legacy": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-ultimate-legacy-9372.html", 
+        "Release": "1990"
+    }, 
+    "December Boys": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/december-boys-13942.html", 
+        "Release": "2015"
+    }, 
+    "Tamara Drewe": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/tamara-drewe-6413.html", 
+        "Release": "1984"
+    }, 
+    "Lambada": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/lambada-12919.html", 
+        "Release": "1976"
+    }, 
+    "That Evening Sun": {
+        "status": "toVisit", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/that-evening-sun-18748.html", 
+        "Release": "1976"
+    }, 
+    "Once Upon a Holiday": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/once-upon-a-holiday-6946.html", 
+        "Release": "1994"
+    }, 
+    "Go North": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/go-north-18923.html", 
+        "Release": "1984"
+    }, 
+    "Hole In One": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/hole-in-one-6659.html", 
+        "Release": "1994"
+    }, 
+    "Batman: The Dark Knight Returns (Part 2)": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/batman-the-dark-knight-returns-part-2-7614.html", 
+        "Release": "1974"
+    }, 
+    "[16+] The Tribe": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/16-the-tribe-6876.html", 
+        "Release": "2015"
+    }, 
+    "Amen": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/amen-2755.html", 
+        "Release": "1990"
+    }, 
+    "Disaster Movie": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/disaster-movie-9913.html", 
+        "Release": "1994"
+    }, 
+    "Equals": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/equals-13719.html", 
+        "Release": "1976"
+    }, 
+    "V for Vendetta": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/v-for-vendetta-5004.html", 
+        "Release": "1974"
+    }, 
+    "Cinderella Man": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/cinderella-man-13121.html", 
+        "Release": "1990"
+    }, 
+    "L\u00e9on: The Professional": {
+        "status": "toVisit", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/laon-the-professional-6891.html", 
+        "Release": "1976"
+    }, 
+    "Maladies": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/maladies-12062.html", 
+        "Release": "1954"
+    }, 
+    "Windsor Drive": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/windsor-drive-5788.html", 
+        "Release": "1974"
+    }, 
+    "We Need to Talk About Kevin": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/we-need-to-talk-about-kevin--12958.html", 
+        "Release": "2001"
+    }, 
+    "A Heavenly Christmas": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/a-heavenly-christmas-18178.html", 
+        "Release": "2001"
+    }, 
+    "Jai Ho": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/jai-ho-1824.html", 
+        "Release": "2001"
+    }, 
+    "NW": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/nw-17834.html", 
+        "Release": "1976"
+    }, 
+    "Gran Torino": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/gran-torino-5387.html", 
+        "Release": "1994"
+    }, 
+    "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/ghost-in-the-shell-arise-border-4-ghost-stands-alone-19734.html", 
+        "Release": "1954"
+    }, 
+    "Death Wish": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/death-wish-7100.html", 
+        "Release": "1976"
+    }, 
+    "The Missionaries": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-missionaries-3198.html", 
+        "Release": "1994"
+    }, 
+    "Charlie Chaplin: The Kid": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/charlie-chaplin-the-kid-9742.html", 
+        "Release": "1974"
+    }, 
+    "Fast And Furious 4": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/fast-and-furious-4-1661.html", 
+        "Release": "1990"
+    }, 
+    "Naked": {
+        "status": "toVisit", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/naked-5480.html", 
+        "Release": "1976"
+    }, 
+    "Beach Blanket Bingo": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-intent-15037.html", 
+        "Release": "2015"
+    }, 
+    "Big Miracle": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/big-miracle-11890.html", 
+        "Release": "2016"
+    }, 
+    "Dan in Real Life": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/dan-in-real-life-14336.html", 
+        "Release": "2001"
+    }, 
+    "Generation Gap": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/generation-gap-13353.html", 
+        "Release": "2016"
+    }, 
+    "The White King": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-white-king-19348.html", 
+        "Release": "1954"
+    }, 
+    "Murder, She Baked: Just Desserts": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/murder-she-baked-just-desserts-20027.html", 
+        "Release": "2016"
+    }, 
+    "Showdown in little Tokyo": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/showdown-in-little-tokyo-10782.html", 
+        "Release": "1994"
+    }, 
+    "Silver Bells": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/silver-bells-14841.html", 
+        "Release": "1974"
+    }, 
+    "Drinking Buddies": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/drinking-buddies-2838.html", 
+        "Release": "1976"
+    }, 
+    "Life Of A King": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/life-of-a-king-2839.html", 
+        "Release": "2016"
+    }, 
+    "Dirty Laundry": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/dirty-laundry-11503.html", 
+        "Release": "1974"
+    }, 
+    "It Could Happen to You": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/it-could-happen-to-you-5829.html", 
+        "Release": "1976"
+    }, 
+    "Righteous Kill": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/righteous-kill-14273.html", 
+        "Release": "1976"
+    }, 
+    "Nobody Walks in L.A.": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/nobody-walks-in-la-20012.html", 
+        "Release": "2015"
+    }, 
+    "Ordinary World": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/ordinary-world--17210.html", 
+        "Release": "1976"
+    }, 
+    "Heaven Can Wait": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/heaven-can-wait-7432.html", 
+        "Release": "1984"
+    }, 
+    "Miracle Mile": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/miracle-mile-5831.html", 
+        "Release": "1994"
+    }, 
+    "Tell": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/tell-1676.html", 
+        "Release": "1994"
+    }, 
+    "Funny Lady": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/funny-lady-20676.html", 
+        "Release": "1954"
+    }, 
+    "Voyage of the Damned": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/voyage-of-the-damned-13167.html", 
+        "Release": "1990"
+    }, 
+    "Medicine of the Wolf": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/medicine-of-the-wolf-20723.html", 
+        "Release": "2015"
+    }, 
+    "Midnight Sex Run": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/midnight-sex-run-2957.html", 
+        "Release": "1974"
+    }, 
+    "The Last Time You Had Fun": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-last-time-you-had-fun-2230.html", 
+        "Release": "1994"
+    }, 
+    "Good Vibrations": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/good-vibrations-16673.html", 
+        "Release": "1984"
+    }, 
+    "The Resurrection of Gavin Stone": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-resurrection-of-gavin-stone-20447.html", 
+        "Release": "1990"
+    }, 
+    "No Reservations": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/no-reservations-12658.html", 
+        "Release": "1954"
+    }, 
+    "It Felt Like Love": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/it-felt-like-love-6519.html", 
+        "Release": "1976"
+    }, 
+    "Savaged": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/savaged-2513.html", 
+        "Release": "2001"
+    }, 
+    "Before I Disappear": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/before-i-disappear-7018.html", 
+        "Release": "1954"
+    }, 
+    "The Twilight Saga Breaking Dawn Part 1": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-twilight-saga-breaking-dawn-part-1-4113.html", 
+        "Release": "2015"
+    }, 
+    "Dear White People": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/dear-white-people-3129.html", 
+        "Release": "1974"
+    }, 
+    "One Hour Photo": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/one-hour-photo-2689.html", 
+        "Release": "1990"
+    }, 
+    "Quiz Show": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/quiz-show-16729.html", 
+        "Release": "1990"
+    }, 
+    "The Stunt Man": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-stunt-man-14141.html", 
+        "Release": "1974"
+    }, 
+    "Teachers": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/teachers-18631.html", 
+        "Release": "1954"
+    }, 
+    "What To Expect When You're Expecting": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/what-to-expect-when-youre-expecting-4042.html", 
+        "Release": "2001"
+    }, 
+    "Excess Flesh": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/excess-flesh-10772.html", 
+        "Release": "1954"
+    }, 
+    "Trust Me": {
+        "status": "toVisit", 
+        "IMBD": "5", 
+        "Genres": [
+            "Comedy", 
+            "Drama", 
+            "Fantasy"
+        ], 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
+        "BigShots": [
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
+        ], 
+        "link": "https://solarmoviez.to/movie/trust-me-6202.html", 
+        "Release": "1984"
+    }, 
+    "Above The Rim": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/above-the-rim-4008.html", 
+        "Release": "1990"
+    }, 
+    "Five Nights in Maine": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/five-nights-in-maine-15394.html", 
+        "Release": "1990"
+    }, 
+    "Chori Chori Chupke Chupke": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/chori-chori-chupke-chupke-11162.html", 
+        "Release": "1976"
+    }, 
+    "Hester Street": {
+        "status": "toVisit", 
+        "IMBD": "6.4", 
+        "Genres": [
+            "Romance", 
+            "Sci-Fi", 
+            "Drama"
+        ], 
+        "description": "In a futuristic dystopian/utopian society, human emotions and most illnesses have been eradicated and everyone lives in peace. Then two people fall in love when they regain their feelings from a mysterious disease, causing tensions between them and their society.", 
+        "BigShots": [
+            "Nicholas Hoult", 
+            "Vernetta Lopez", 
+            "Scott Lawrence"
+        ], 
+        "link": "https://solarmoviez.to/movie/hester-street-20680.html", 
+        "Release": "2015"
+    }
+}

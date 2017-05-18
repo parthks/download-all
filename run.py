@@ -9,6 +9,12 @@ import urllib
 
 import time
 import json
+import thread
+
+import traceback
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 
 
@@ -76,8 +82,8 @@ class Movie(object):
     link = ""
 
     def __init__(self, name, link):
-        self.name = str(name)
-        self.link = str(link)
+        self.name = name.encode()
+        self.link = link.encode()
         
     def __str__(self):
         return "name: "+self.name+"\nlink: "+self.link+"\n"
@@ -117,17 +123,20 @@ LOOP until moviesToVist is empty
 
 
 
+url = 'https://solarmoviez.to/movie/voyage-of-the-damned-13167.html'
 
 moviesDict = {}
 moviesToVist = []
+errorNum = 0
 
 driver = webdriver.Chrome('/Users/Parth/Desktop/download-all/chromedriver')
 
-def setup():
-    global driver
+def start():
+    global driver, url
 
-    url = 'https://solarmoviez.to/movie/breaking-bad-the-movie-19810.html'
     driver.get(url)
+    time.sleep(1)
+
     getRelatedMovies()
 
     makeListOfAllMovies()
@@ -148,49 +157,121 @@ def getRelatedMovies():
         xpath = relatedMoviesXpath + '[' + str(i)+ ']' + addXpath
         relatedMovie = driver.find_element_by_xpath(xpath)
         movieInfo = relatedMovie.text.split('\n')
-        print(movieInfo)
+        #print(movieInfo)
         if movieInfo[0] == 'HD' and not movieInfo[1] in moviesDict.keys():
             moviesToVist.append(Movie(movieInfo[1], relatedMovie.get_attribute("href")))
-            
-            moviesDict[movieInfo[1]] = "toVisit"
+            getMoreMovieInfo(movieInfo[1], relatedMovie.get_attribute("href"))
+            #moviesDict[movieInfo[1]] = "toVisit"
 
     print("got "+str(len(moviesDict))+" movies in all")
+    print(str(len(moviesToVist))+" movies left to visit!")
 
+
+def getMoreMovieInfo(movieName, movieLink):
+    global driver, moviesDict
+
+    xpathDescription = "/html/body/div[@id='xmain']/div[@id='main']/div[@class='container']/div[@class='main-content main-detail ']/div[@class='md-top']/div[@id='mv-info']/div[@class='mvi-content']/div[@class='mvic-desc']/div[@class='desc']"
+    xpathImbd = "/html/body/div[@id='xmain']/div[@id='main']/div[@class='container']/div[@class='main-content main-detail ']/div[@class='md-top']/div[@id='mv-info']/div[@class='mvi-content']/div[@class='mvic-desc']/div[@class='mvic-info']/div[@class='mvici-right']/p[4]"
+    xpathDate = "/html/body/div[@id='xmain']/div[@id='main']/div[@class='container']/div[@class='main-content main-detail ']/div[@class='md-top']/div[@id='mv-info']/div[@class='mvi-content']/div[@class='mvic-desc']/div[@class='mvic-info']/div[@class='mvici-right']/p[3]"
+    xpathActors = "/html/body/div[@id='xmain']/div[@id='main']/div[@class='container']/div[@class='main-content main-detail ']/div[@class='md-top']/div[@id='mv-info']/div[@class='mvi-content']/div[@class='mvic-desc']/div[@class='mvic-info']/div[@class='mvici-left']/p[2]"
+    xpathGenres = "/html/body/div[@id='xmain']/div[@id='main']/div[@class='container']/div[@class='main-content main-detail ']/div[@class='md-top']/div[@id='mv-info']/div[@class='mvi-content']/div[@class='mvic-desc']/div[@class='mvic-info']/div[@class='mvici-left']/p[1]"
+
+
+    status = "toVisit"
+    descrip = driver.find_element_by_xpath(xpathDescription).text
+    imbd = driver.find_element_by_xpath(xpathImbd).text.split(': ')[1]
+    date = driver.find_element_by_xpath(xpathDate).text.split(': ')[1]
+    actors = driver.find_element_by_xpath(xpathActors).text.split(': ')[1].split(', ')
+    genres = driver.find_element_by_xpath(xpathGenres).text.split(': ')[1].split(', ')
+
+
+    tempDict = {   'status': status, 'link': movieLink,
+        'description': descrip,
+        'IMBD': imbd,
+        'Release': date,
+        'BigShots': actors,
+        'Genres': genres 
+    }
+
+    moviesDict[movieName] = tempDict
 
 
 def visitMovie(movie):
-    global driver, moviesDict
-
+    global driver, moviesDict, url
+    #print('LOLOLOLOLOLOLOL')
+    url = movie.link
     driver.get(movie.link)
+    time.sleep(1)
     getRelatedMovies()
-    moviesDict[movie.name] = "done"
+    moviesDict[movie.name]["status"] = "done"
 
 
 
 def makeListOfAllMovies():
     global moviesDict, moviesToVist
 
-    while len(moviesToVist) < 20:
-        movieName = moviesToVist[0].name
-        if movieName in moviesDict.keys() and moviesDict[movieName] == "toVisit":
-            visitMovie(moviesToVist[0])
+    while len(moviesToVist) > 0:
+        movie = moviesToVist[0]
+        if movie.name in moviesDict.keys() and moviesDict[movie.name]["status"] == "toVisit":
+            visitMovie(movie)
 
+        print('poping unique!')
         moviesToVist.pop(0)
 
 
+    outputInFile()
+    print_success("!DONE EVERYTHING :D!")
+    sys.exit()
+    
+
 
 def outputInFile():
+    global driver
+
     f = open('movies.txt', 'w')
-    f.write(json.dumps(moviesDict))
+    f.write(json.dumps(moviesDict, indent=4))
     f.close()
+    
 
 
-try:
-    setup()
-except Exception as e:
-    print_error(e)
-    outputInFile()
+def command():
+    takeInput = raw_input('Press "s" at any time to SAVE\n')
+    if takeInput == "s":
+        outputInFile()
+        print_success("DONE SAVING!!!")
+        thread.start_new_thread(command, ())
 
+
+
+thread.start_new_thread(command, ())
+
+while True:
+    
+    try:
+        #command()
+        start()        
+        print("contine...")
+        
+
+    except Exception as e:
+        print_error(e)
+        ex_type, ex, tb = sys.exc_info()
+        traceback.print_tb(tb)
+
+        outputInFile()
+        driver.get_screenshot_as_file('error'+str(errorNum)+'.png')
+
+        errFile = open('error.txt', 'r+')
+        errFile.seek(0,2)
+        traceback.print_tb(tb, file=errFile)
+        errFile.write(str(errorNum) +' -- '+ str(e)+'\n\n')
+        errFile.close()
+
+        errorNum += 1
+        if errorNum > 10:
+            sys.exit()
+        #driver.close()
+    
 
 
 
