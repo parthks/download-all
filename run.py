@@ -135,7 +135,7 @@ def start():
     global driver, url
 
     driver.get(url)
-    time.sleep(1)
+    #time.sleep(1)
 
     getRelatedMovies()
 
@@ -156,11 +156,12 @@ def getRelatedMovies():
     for i in range(1,numOfRelatedMovies+1):
         xpath = relatedMoviesXpath + '[' + str(i)+ ']' + addXpath
         relatedMovie = driver.find_element_by_xpath(xpath)
-        movieInfo = relatedMovie.text.split('\n')
+        movieInfo = relatedMovie.get_attribute("innerText").split('\n')
+        movieName = movieInfo[1].encode()
         #print(movieInfo)
-        if movieInfo[0] == 'HD' and not movieInfo[1] in moviesDict.keys():
-            moviesToVist.append(Movie(movieInfo[1], relatedMovie.get_attribute("href")))
-            getMoreMovieInfo(movieInfo[1], relatedMovie.get_attribute("href"))
+        if movieInfo[0] == 'HD' and not movieName in moviesDict.keys():
+            moviesToVist.append(Movie(movieName, relatedMovie.get_attribute("href")))
+            getMoreMovieInfo(movieName, relatedMovie.get_attribute("href"))
             #moviesDict[movieInfo[1]] = "toVisit"
 
     print("got "+str(len(moviesDict))+" movies in all")
@@ -200,10 +201,11 @@ def visitMovie(movie):
     global driver, moviesDict, url
     #print('LOLOLOLOLOLOLOL')
     url = movie.link
+    name = movie.name.encode()
     driver.get(movie.link)
-    time.sleep(1)
+    #time.sleep(1)
     getRelatedMovies()
-    moviesDict[movie.name]["status"] = "done"
+    moviesDict[name]["status"] = "done"
 
 
 
@@ -212,7 +214,8 @@ def makeListOfAllMovies():
 
     while len(moviesToVist) > 0:
         movie = moviesToVist[0]
-        if movie.name in moviesDict.keys() and moviesDict[movie.name]["status"] == "toVisit":
+        movieName = movie.name.encode()
+        if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
             visitMovie(movie)
 
         print('poping unique!')

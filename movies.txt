@@ -1,4 +1,21 @@
 {
+    "Knight and Day": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/knight-and-day-5290.html", 
+        "Release": "1994"
+    }, 
     "Endless Love": {
         "status": "toVisit", 
         "IMBD": "7.7", 
@@ -32,6 +49,22 @@
         ], 
         "link": "https://solarmoviez.to/movie/ice-age-continental-drift-2026.html", 
         "Release": "1984"
+    }, 
+    "The Watsons Go To Birmingham": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-watsons-go-to-birmingham-2624.html", 
+        "Release": "1993"
     }, 
     "Swing Vote": {
         "status": "toVisit", 
@@ -67,6 +100,23 @@
         "link": "https://solarmoviez.to/movie/barry--18455.html", 
         "Release": "2001"
     }, 
+    "Christmas Magic": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/christmas-magic-14818.html", 
+        "Release": "1994"
+    }, 
     "Hands of Steel": {
         "status": "toVisit", 
         "IMBD": "7", 
@@ -84,22 +134,38 @@
         "link": "https://solarmoviez.to/movie/hands-of-steel-19298.html", 
         "Release": "1974"
     }, 
-    "Special Id": {
+    "Candleshoe": {
         "status": "toVisit", 
-        "IMBD": "6.3", 
+        "IMBD": "8.6", 
         "Genres": [
-            "Romance", 
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/candleshoe-9073.html", 
+        "Release": "1994"
+    }, 
+    "Christmas Lodge": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
             "Comedy", 
             "Drama"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
         ], 
-        "link": "https://solarmoviez.to/movie/special-id-2135.html", 
-        "Release": "1994"
+        "link": "https://solarmoviez.to/movie/christmas-lodge-18469.html", 
+        "Release": "1993"
     }, 
     "Volcano": {
         "status": "toVisit", 
@@ -118,23 +184,6 @@
         "link": "https://solarmoviez.to/movie/volcano-6899.html", 
         "Release": "1974"
     }, 
-    "Housefull": {
-        "status": "toVisit", 
-        "IMBD": "6.3", 
-        "Genres": [
-            "Romance", 
-            "Comedy", 
-            "Drama"
-        ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
-        "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
-        ], 
-        "link": "https://solarmoviez.to/movie/housefull-16639.html", 
-        "Release": "1994"
-    }, 
     "The Other (1972)": {
         "status": "toVisit", 
         "IMBD": "5", 
@@ -151,6 +200,23 @@
         ], 
         "link": "https://solarmoviez.to/movie/the-other-1972-16819.html", 
         "Release": "1984"
+    }, 
+    "Mortal Thoughts": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/mortal-thoughts-7033.html", 
+        "Release": "2015"
     }, 
     "Tooth Fairy": {
         "status": "toVisit", 
@@ -186,22 +252,21 @@
         "link": "https://solarmoviez.to/movie/vikingdom-2830.html", 
         "Release": "1984"
     }, 
-    "Anna and the King": {
-        "status": "toVisit", 
-        "IMBD": "6.3", 
+    "Tekken": {
+        "status": "done", 
+        "IMBD": "6.5", 
         "Genres": [
-            "Romance", 
-            "Comedy", 
+            "War", 
             "Drama"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
         ], 
-        "link": "https://solarmoviez.to/movie/anna-and-the-king-10517.html", 
-        "Release": "1994"
+        "link": "https://solarmoviez.to/movie/tekken-20232.html", 
+        "Release": "1976"
     }, 
     "Lone Star": {
         "status": "toVisit", 
@@ -237,22 +302,22 @@
         "link": "https://solarmoviez.to/movie/frances-ha-3845.html", 
         "Release": "2015"
     }, 
-    "37 (2016)": {
+    "Go North": {
         "status": "toVisit", 
-        "IMBD": "6.3", 
+        "IMBD": "5", 
         "Genres": [
-            "Romance", 
             "Comedy", 
-            "Drama"
+            "Drama", 
+            "Fantasy"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
         ], 
-        "link": "https://solarmoviez.to/movie/37-16973.html", 
-        "Release": "1994"
+        "link": "https://solarmoviez.to/movie/go-north-18923.html", 
+        "Release": "1984"
     }, 
     "Parenthood": {
         "status": "toVisit", 
@@ -268,6 +333,23 @@
         ], 
         "link": "https://solarmoviez.to/movie/parenthood-9236.html", 
         "Release": "1990"
+    }, 
+    "American Pie Presents: The Book Of Love": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/american-pie-presents-the-book-of-love-1882.html", 
+        "Release": "1994"
     }, 
     "The Quiet Man": {
         "status": "toVisit", 
@@ -337,6 +419,22 @@
         "link": "https://solarmoviez.to/movie/betrayed-18842.html", 
         "Release": "2016"
     }, 
+    "The Playboys": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-playboys-19008.html", 
+        "Release": "1993"
+    }, 
     "20,000 Leagues Under the Sea": {
         "status": "done", 
         "IMBD": "6.5", 
@@ -402,6 +500,40 @@
         "link": "https://solarmoviez.to/movie/alto-6583.html", 
         "Release": "1990"
     }, 
+    "Butch Cassidy And The Sundance Kid": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/butch-cassidy-and-the-sundance-kid-2470.html", 
+        "Release": "1994"
+    }, 
+    "The Terminal": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-terminal-9513.html", 
+        "Release": "2015"
+    }, 
     "Cleaner": {
         "status": "toVisit", 
         "IMBD": "7.2", 
@@ -435,23 +567,6 @@
         ], 
         "link": "https://solarmoviez.to/movie/heropanti-1760.html", 
         "Release": "2001"
-    }, 
-    "Breakin'": {
-        "status": "toVisit", 
-        "IMBD": "6.3", 
-        "Genres": [
-            "Romance", 
-            "Comedy", 
-            "Drama"
-        ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
-        "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
-        ], 
-        "link": "https://solarmoviez.to/movie/breakin-9999.html", 
-        "Release": "1994"
     }, 
     "Peyton Place": {
         "status": "toVisit", 
@@ -538,22 +653,21 @@
         "link": "https://solarmoviez.to/movie/blackbird-4625.html", 
         "Release": "2016"
     }, 
-    "Hollywood Chainsaw Hookers": {
+    "Madeas Witness Protection": {
         "status": "toVisit", 
-        "IMBD": "6.3", 
+        "IMBD": "7.9", 
         "Genres": [
-            "Romance", 
             "Comedy", 
             "Drama"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
         ], 
-        "link": "https://solarmoviez.to/movie/hollywood-chainsaw-hookers-18343.html", 
-        "Release": "1994"
+        "link": "https://solarmoviez.to/movie/madeas-witness-protection-8609.html", 
+        "Release": "1993"
     }, 
     "Labor Day": {
         "status": "toVisit", 
@@ -606,22 +720,56 @@
         "link": "https://solarmoviez.to/movie/savannah-11915.html", 
         "Release": "2001"
     }, 
-    "Honey": {
+    "Patriots Day": {
         "status": "toVisit", 
-        "IMBD": "7", 
+        "IMBD": "8.6", 
         "Genres": [
-            "Action", 
+            "Thriller", 
             "Crime", 
             "Drama"
         ], 
-        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
         "BigShots": [
-            "Charles Bronson", 
-            "Hope Lange", 
-            "Vincent Gardenia"
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
         ], 
-        "link": "https://solarmoviez.to/movie/honey-8090.html", 
-        "Release": "1974"
+        "link": "https://solarmoviez.to/movie/patriots-day-18902.html", 
+        "Release": "1994"
+    }, 
+    "Are We Done Yet?": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/are-we-done-yet-13169.html", 
+        "Release": "1994"
+    }, 
+    "Mickey's Magical Christmas: Snowed in at the House of Mouse": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/mickeys-magical-christmas-snowed-in-at-the-house-of-mouse-18395.html", 
+        "Release": "1994"
     }, 
     "Disorderlies": {
         "status": "toVisit", 
@@ -657,6 +805,40 @@
         "link": "https://solarmoviez.to/movie/guess-who-4730.html", 
         "Release": "1974"
     }, 
+    "The Octagon": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-octagon-20461.html", 
+        "Release": "1994"
+    }, 
+    "Sex Lies and Obsession": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/-sex-lies-and-obsession-19501.html", 
+        "Release": "1994"
+    }, 
     "Wild Bill": {
         "status": "toVisit", 
         "IMBD": "7.7", 
@@ -691,21 +873,21 @@
         "link": "https://solarmoviez.to/movie/obvious-child-2500.html", 
         "Release": "1974"
     }, 
-    "Liberal Arts": {
+    "Bridgend": {
         "status": "toVisit", 
-        "IMBD": "6.3", 
+        "IMBD": "8.6", 
         "Genres": [
-            "Romance", 
-            "Comedy", 
+            "Thriller", 
+            "Crime", 
             "Drama"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
         ], 
-        "link": "https://solarmoviez.to/movie/liberal-arts-10890.html", 
+        "link": "https://solarmoviez.to/movie/bridgend-14577.html", 
         "Release": "1994"
     }, 
     "All the President's Men": {
@@ -742,6 +924,23 @@
         "link": "https://solarmoviez.to/movie/disconnect-9175.html", 
         "Release": "1974"
     }, 
+    "The Hit List": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-hit-list-15715.html", 
+        "Release": "2015"
+    }, 
     "The Details": {
         "status": "toVisit", 
         "IMBD": "6.4", 
@@ -758,6 +957,40 @@
         ], 
         "link": "https://solarmoviez.to/movie/the-details-12078.html", 
         "Release": "2015"
+    }, 
+    "Balto": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/balto-14468.html", 
+        "Release": "2015"
+    }, 
+    "Murder, She Baked: Just Desserts": {
+        "status": "toVisit", 
+        "IMBD": "7.7", 
+        "Genres": [
+            "Comedy", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "BigShots": [
+            "Billie Joe Armstrong", 
+            "Selma Blair", 
+            "Judy Greer"
+        ], 
+        "link": "https://solarmoviez.to/movie/murder-she-baked-just-desserts-20027.html", 
+        "Release": "2016"
     }, 
     "A Man Called Ove": {
         "status": "toVisit", 
@@ -790,6 +1023,23 @@
         ], 
         "link": "https://solarmoviez.to/movie/cheap-thrills-3737.html", 
         "Release": "1990"
+    }, 
+    "Tango and Cash": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/tango-and-cash-12285.html", 
+        "Release": "1994"
     }, 
     "Shut In": {
         "status": "toVisit", 
@@ -825,6 +1075,23 @@
     }, 
     "10 Cent Pistol": {
         "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/10-cent-pistol-4624.html", 
+        "Release": "2001"
+    }, 
+    "New York New York": {
+        "status": "toVisit", 
         "IMBD": "6.3", 
         "Genres": [
             "Romance", 
@@ -837,23 +1104,24 @@
             "Bridget Fonda", 
             "Rosie Perez"
         ], 
-        "link": "https://solarmoviez.to/movie/10-cent-pistol-4624.html", 
+        "link": "https://solarmoviez.to/movie/new-york-new-york-12845.html", 
         "Release": "1994"
     }, 
-    "New York New York": {
+    "The Binding": {
         "status": "toVisit", 
-        "IMBD": "3.2", 
+        "IMBD": "7.9", 
         "Genres": [
+            "Comedy", 
             "Drama"
         ], 
-        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
         "BigShots": [
-            "J. Eddie Peck", 
-            "Melora Hardin", 
-            "Adolfo Quinones"
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
         ], 
-        "link": "https://solarmoviez.to/movie/new-york-new-york-12845.html", 
-        "Release": "1990"
+        "link": "https://solarmoviez.to/movie/the-binding-15028.html", 
+        "Release": "1993"
     }, 
     "Fargo 1996": {
         "status": "toVisit", 
@@ -872,6 +1140,23 @@
         "link": "https://solarmoviez.to/movie/fargo-1996-5027.html", 
         "Release": "2001"
     }, 
+    "Honey": {
+        "status": "toVisit", 
+        "IMBD": "7", 
+        "Genres": [
+            "Action", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "In this action drama, Charles Bronson stars as Paul Kersey, a New York City architect, whose daughter brutally raped and wife murdered by street punks. Enraged, Paul turns into a murderous vigilante who randomly kills would-be muggers who he finds on the street.", 
+        "BigShots": [
+            "Charles Bronson", 
+            "Hope Lange", 
+            "Vincent Gardenia"
+        ], 
+        "link": "https://solarmoviez.to/movie/honey-8090.html", 
+        "Release": "1974"
+    }, 
     "Frank": {
         "status": "toVisit", 
         "IMBD": "3.2", 
@@ -886,6 +1171,22 @@
         ], 
         "link": "https://solarmoviez.to/movie/frank-3072.html", 
         "Release": "1990"
+    }, 
+    "Dirty Mary Crazy Larry": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/dirty-mary-crazy-larry-18591.html", 
+        "Release": "1993"
     }, 
     "White Oleander": {
         "status": "toVisit", 
@@ -1023,6 +1324,23 @@
         "link": "https://solarmoviez.to/movie/if-i-stay-2497.html", 
         "Release": "2015"
     }, 
+    "Coconut Hero": {
+        "status": "toVisit", 
+        "IMBD": "5.4", 
+        "Genres": [
+            "Romance", 
+            "Musical", 
+            "Drama"
+        ], 
+        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "BigShots": [
+            "Salman Khan", 
+            "Rani Mukerji ", 
+            "Preity Zinta"
+        ], 
+        "link": "https://solarmoviez.to/movie/coconut-hero-9784.html", 
+        "Release": "2001"
+    }, 
     "The Secret Life of Pets": {
         "status": "toVisit", 
         "IMBD": "7.7", 
@@ -1121,23 +1439,6 @@
         "link": "https://solarmoviez.to/movie/barbershop-4665.html", 
         "Release": "1990"
     }, 
-    "Pulse": {
-        "status": "toVisit", 
-        "IMBD": "7.2", 
-        "Genres": [
-            "Adventure", 
-            "Family", 
-            "Drama"
-        ], 
-        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
-        "BigShots": [
-            "Kirk Douglas", 
-            "James Mason", 
-            "Paul Lukas"
-        ], 
-        "link": "https://solarmoviez.to/movie/pulse-16936.html", 
-        "Release": "1954"
-    }, 
     "Angus Thongs and Perfect Snogging": {
         "status": "toVisit", 
         "IMBD": "5", 
@@ -1171,22 +1472,6 @@
         "link": "https://solarmoviez.to/movie/hello-again-6895.html", 
         "Release": "1976"
     }, 
-    "Tekken": {
-        "status": "done", 
-        "IMBD": "6.5", 
-        "Genres": [
-            "War", 
-            "Drama"
-        ], 
-        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
-        "BigShots": [
-            "Faye Dunaway", 
-            "Oskar Werner", 
-            "Lee Grant"
-        ], 
-        "link": "https://solarmoviez.to/movie/tekken-20232.html", 
-        "Release": "1976"
-    }, 
     "Wuthering High School": {
         "status": "toVisit", 
         "IMBD": "5.4", 
@@ -1204,22 +1489,39 @@
         "link": "https://solarmoviez.to/movie/wuthering-high-school-4396.html", 
         "Release": "2001"
     }, 
-    "The Hungover Games": {
+    "The Spirit": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-spirit-18273.html", 
+        "Release": "1994"
+    }, 
+    "The Big Heat": {
         "status": "toVisit", 
         "IMBD": "6.3", 
         "Genres": [
-            "Romance", 
-            "Comedy", 
-            "Drama"
+            "Thriller", 
+            "Drama", 
+            "Mystery"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
         ], 
-        "link": "https://solarmoviez.to/movie/the-hungover-games-5920.html", 
-        "Release": "1994"
+        "link": "https://solarmoviez.to/movie/the-big-heat-11244.html", 
+        "Release": "2015"
     }, 
     "Apollo 13": {
         "status": "toVisit", 
@@ -1238,24 +1540,24 @@
         "link": "https://solarmoviez.to/movie/apollo-13-4724.html", 
         "Release": "1984"
     }, 
-    "Coconut Hero": {
+    "Eternal Sunshine Of The Spotless Mind": {
         "status": "toVisit", 
-        "IMBD": "5.4", 
+        "IMBD": "8.6", 
         "Genres": [
-            "Romance", 
-            "Musical", 
+            "Thriller", 
+            "Crime", 
             "Drama"
         ], 
-        "description": "This Bollywood musical romantic drama features Raj and Priya, a childless couple who decide to hire a prostitute named Madhu to get impregnated and then give birth to a baby. With time, Priya, Madhu and Raj become almost like a close-knit family, without the knowledge of Raj`s parents, of course.", 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
         "BigShots": [
-            "Salman Khan", 
-            "Rani Mukerji ", 
-            "Preity Zinta"
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
         ], 
-        "link": "https://solarmoviez.to/movie/coconut-hero-9784.html", 
-        "Release": "2001"
+        "link": "https://solarmoviez.to/movie/eternal-sunshine-of-the-spotless-mind-3828.html", 
+        "Release": "1994"
     }, 
-    "The Sisterhood of the Traveling Pants 2": {
+    "Touchy Feely": {
         "status": "toVisit", 
         "IMBD": "6.3", 
         "Genres": [
@@ -1269,7 +1571,7 @@
             "Bridget Fonda", 
             "Rosie Perez"
         ], 
-        "link": "https://solarmoviez.to/movie/the-sisterhood-of-the-traveling-pants-2-9195.html", 
+        "link": "https://solarmoviez.to/movie/touchy-feely-17040.html", 
         "Release": "1994"
     }, 
     "Pleasantville": {
@@ -1305,6 +1607,22 @@
         ], 
         "link": "https://solarmoviez.to/movie/daylight-10086.html", 
         "Release": "2016"
+    }, 
+    "Cardboard Boxer": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/cardboard-boxer-16301.html", 
+        "Release": "1993"
     }, 
     "Nine": {
         "status": "toVisit", 
@@ -1391,6 +1709,23 @@
         "link": "https://solarmoviez.to/movie/yosemite-10272.html", 
         "Release": "1984"
     }, 
+    "Oldboy (2003)": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/oldboy-2003-10258.html", 
+        "Release": "2015"
+    }, 
     "Spike Island": {
         "status": "toVisit", 
         "IMBD": "5", 
@@ -1439,6 +1774,40 @@
         ], 
         "link": "https://solarmoviez.to/movie/the-ultimate-legacy-9372.html", 
         "Release": "1990"
+    }, 
+    "Mr. Pig": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/mr-pig-17941.html", 
+        "Release": "2015"
+    }, 
+    "Deadly Paradise": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/deadly-paradise-19804.html", 
+        "Release": "1994"
     }, 
     "December Boys": {
         "status": "toVisit", 
@@ -1491,7 +1860,7 @@
         "Release": "1976"
     }, 
     "That Evening Sun": {
-        "status": "toVisit", 
+        "status": "done", 
         "IMBD": "6.5", 
         "Genres": [
             "War", 
@@ -1506,7 +1875,7 @@
         "link": "https://solarmoviez.to/movie/that-evening-sun-18748.html", 
         "Release": "1976"
     }, 
-    "Once Upon a Holiday": {
+    "Jackass 3.5": {
         "status": "toVisit", 
         "IMBD": "6.3", 
         "Genres": [
@@ -1520,27 +1889,10 @@
             "Bridget Fonda", 
             "Rosie Perez"
         ], 
-        "link": "https://solarmoviez.to/movie/once-upon-a-holiday-6946.html", 
+        "link": "https://solarmoviez.to/movie/jackass-35-3002.html", 
         "Release": "1994"
     }, 
-    "Go North": {
-        "status": "toVisit", 
-        "IMBD": "5", 
-        "Genres": [
-            "Comedy", 
-            "Drama", 
-            "Fantasy"
-        ], 
-        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
-        "BigShots": [
-            "Shelley Long", 
-            "Judith Ivey", 
-            "Gabriel Byrne"
-        ], 
-        "link": "https://solarmoviez.to/movie/go-north-18923.html", 
-        "Release": "1984"
-    }, 
-    "Hole In One": {
+    "The Villain": {
         "status": "toVisit", 
         "IMBD": "6.3", 
         "Genres": [
@@ -1554,8 +1906,23 @@
             "Bridget Fonda", 
             "Rosie Perez"
         ], 
-        "link": "https://solarmoviez.to/movie/hole-in-one-6659.html", 
+        "link": "https://solarmoviez.to/movie/the-villain-1713.html", 
         "Release": "1994"
+    }, 
+    "Cinderella Man": {
+        "status": "toVisit", 
+        "IMBD": "3.2", 
+        "Genres": [
+            "Drama"
+        ], 
+        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "BigShots": [
+            "J. Eddie Peck", 
+            "Melora Hardin", 
+            "Adolfo Quinones"
+        ], 
+        "link": "https://solarmoviez.to/movie/cinderella-man-13121.html", 
+        "Release": "1990"
     }, 
     "Batman: The Dark Knight Returns (Part 2)": {
         "status": "toVisit", 
@@ -1606,23 +1973,6 @@
         "link": "https://solarmoviez.to/movie/amen-2755.html", 
         "Release": "1990"
     }, 
-    "Disaster Movie": {
-        "status": "toVisit", 
-        "IMBD": "6.3", 
-        "Genres": [
-            "Romance", 
-            "Comedy", 
-            "Drama"
-        ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
-        "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
-        ], 
-        "link": "https://solarmoviez.to/movie/disaster-movie-9913.html", 
-        "Release": "1994"
-    }, 
     "Equals": {
         "status": "done", 
         "IMBD": "6.5", 
@@ -1656,36 +2006,21 @@
         "link": "https://solarmoviez.to/movie/v-for-vendetta-5004.html", 
         "Release": "1974"
     }, 
-    "Cinderella Man": {
+    "Brooklyn": {
         "status": "toVisit", 
-        "IMBD": "3.2", 
+        "IMBD": "7.9", 
         "Genres": [
+            "Comedy", 
             "Drama"
         ], 
-        "description": "After a long day of teaching entitled high school students in Beverly Hills, Calif., Kevin Laird likes to spend the evening dancing the Lambada at Latin clubs. But when a jealous student exposes Kevin's double life, his two worlds collide, threatening his job and reputation.", 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
         "BigShots": [
-            "J. Eddie Peck", 
-            "Melora Hardin", 
-            "Adolfo Quinones"
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
         ], 
-        "link": "https://solarmoviez.to/movie/cinderella-man-13121.html", 
-        "Release": "1990"
-    }, 
-    "L\u00e9on: The Professional": {
-        "status": "toVisit", 
-        "IMBD": "6.5", 
-        "Genres": [
-            "War", 
-            "Drama"
-        ], 
-        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
-        "BigShots": [
-            "Faye Dunaway", 
-            "Oskar Werner", 
-            "Lee Grant"
-        ], 
-        "link": "https://solarmoviez.to/movie/laon-the-professional-6891.html", 
-        "Release": "1976"
+        "link": "https://solarmoviez.to/movie/brooklyn-7255.html", 
+        "Release": "1993"
     }, 
     "Maladies": {
         "status": "toVisit", 
@@ -1704,8 +2039,25 @@
         "link": "https://solarmoviez.to/movie/maladies-12062.html", 
         "Release": "1954"
     }, 
-    "Windsor Drive": {
+    "The Forgotten": {
         "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-forgotten-12292.html", 
+        "Release": "2015"
+    }, 
+    "Windsor Drive": {
+        "status": "done", 
         "IMBD": "7", 
         "Genres": [
             "Action", 
@@ -1788,21 +2140,38 @@
         "link": "https://solarmoviez.to/movie/nw-17834.html", 
         "Release": "1976"
     }, 
-    "Gran Torino": {
+    "Billy Bathgate": {
         "status": "toVisit", 
-        "IMBD": "6.3", 
+        "IMBD": "8.6", 
         "Genres": [
-            "Romance", 
-            "Comedy", 
+            "Thriller", 
+            "Crime", 
             "Drama"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
         ], 
-        "link": "https://solarmoviez.to/movie/gran-torino-5387.html", 
+        "link": "https://solarmoviez.to/movie/billy-bathgate-12852.html", 
+        "Release": "1994"
+    }, 
+    "The Bourne Ultimatum": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-bourne-ultimatum-1551.html", 
         "Release": "1994"
     }, 
     "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone": {
@@ -1838,22 +2207,22 @@
         "link": "https://solarmoviez.to/movie/death-wish-7100.html", 
         "Release": "1976"
     }, 
-    "The Missionaries": {
+    "Good Vibrations": {
         "status": "toVisit", 
-        "IMBD": "6.3", 
+        "IMBD": "5", 
         "Genres": [
-            "Romance", 
             "Comedy", 
-            "Drama"
+            "Drama", 
+            "Fantasy"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "Shelley Long", 
+            "Judith Ivey", 
+            "Gabriel Byrne"
         ], 
-        "link": "https://solarmoviez.to/movie/the-missionaries-3198.html", 
-        "Release": "1994"
+        "link": "https://solarmoviez.to/movie/good-vibrations-16673.html", 
+        "Release": "1984"
     }, 
     "Charlie Chaplin: The Kid": {
         "status": "toVisit", 
@@ -1887,8 +2256,24 @@
         "link": "https://solarmoviez.to/movie/fast-and-furious-4-1661.html", 
         "Release": "1990"
     }, 
-    "Naked": {
+    "Fort Bliss": {
         "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/fort-bliss-19751.html", 
+        "Release": "1993"
+    }, 
+    "Naked": {
+        "status": "done", 
         "IMBD": "6.5", 
         "Genres": [
             "War", 
@@ -1902,6 +2287,23 @@
         ], 
         "link": "https://solarmoviez.to/movie/naked-5480.html", 
         "Release": "1976"
+    }, 
+    "Quicksilver": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/quicksilver-12126.html", 
+        "Release": "2015"
     }, 
     "Beach Blanket Bingo": {
         "status": "toVisit", 
@@ -1918,6 +2320,57 @@
             "Scott Lawrence"
         ], 
         "link": "https://solarmoviez.to/movie/the-intent-15037.html", 
+        "Release": "2015"
+    }, 
+    "21 Brothers": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/21-brothers-19277.html", 
+        "Release": "2015"
+    }, 
+    "Camp Xray": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/camp-xray-6602.html", 
+        "Release": "2015"
+    }, 
+    "Final Destination": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/final-destination-4746.html", 
         "Release": "2015"
     }, 
     "Big Miracle": {
@@ -1937,6 +2390,38 @@
         "link": "https://solarmoviez.to/movie/big-miracle-11890.html", 
         "Release": "2016"
     }, 
+    "Mystic River": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/mystic-river-9189.html", 
+        "Release": "1993"
+    }, 
+    "L\u00e9on: The Professional": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
+            "Drama"
+        ], 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "BigShots": [
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
+        ], 
+        "link": "https://solarmoviez.to/movie/laon-the-professional-6891.html", 
+        "Release": "1976"
+    }, 
     "Dan in Real Life": {
         "status": "toVisit", 
         "IMBD": "5.4", 
@@ -1953,6 +2438,23 @@
         ], 
         "link": "https://solarmoviez.to/movie/dan-in-real-life-14336.html", 
         "Release": "2001"
+    }, 
+    "Day of the Dead (1985)": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/day-of-the-dead-1985-17728.html", 
+        "Release": "1994"
     }, 
     "Generation Gap": {
         "status": "toVisit", 
@@ -1988,24 +2490,40 @@
         "link": "https://solarmoviez.to/movie/the-white-king-19348.html", 
         "Release": "1954"
     }, 
-    "Murder, She Baked: Just Desserts": {
+    "The Fitzgerald Family Christmas": {
         "status": "toVisit", 
-        "IMBD": "7.7", 
+        "IMBD": "6.3", 
         "Genres": [
-            "Comedy", 
-            "Musical", 
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-fitzgerald-family-christmas-16785.html", 
+        "Release": "2015"
+    }, 
+    "Chori Chori Chupke Chupke": {
+        "status": "done", 
+        "IMBD": "6.5", 
+        "Genres": [
+            "War", 
             "Drama"
         ], 
-        "description": "The story follows former punk rocker Perry (Billie Joe Armstrong) who is in the mid-life crisis of a husband and father. Perry then decides to revisit his past and throws an extravagant party, encountering an old girlfriend and bandmates.", 
+        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
         "BigShots": [
-            "Billie Joe Armstrong", 
-            "Selma Blair", 
-            "Judy Greer"
+            "Faye Dunaway", 
+            "Oskar Werner", 
+            "Lee Grant"
         ], 
-        "link": "https://solarmoviez.to/movie/murder-she-baked-just-desserts-20027.html", 
-        "Release": "2016"
+        "link": "https://solarmoviez.to/movie/chori-chori-chupke-chupke-11162.html", 
+        "Release": "1976"
     }, 
-    "Showdown in little Tokyo": {
+    "The Heat": {
         "status": "toVisit", 
         "IMBD": "6.3", 
         "Genres": [
@@ -2019,8 +2537,25 @@
             "Bridget Fonda", 
             "Rosie Perez"
         ], 
-        "link": "https://solarmoviez.to/movie/showdown-in-little-tokyo-10782.html", 
+        "link": "https://solarmoviez.to/movie/the-heat-2198.html", 
         "Release": "1994"
+    }, 
+    "Pulse": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/pulse-16936.html", 
+        "Release": "1954"
     }, 
     "Silver Bells": {
         "status": "toVisit", 
@@ -2055,6 +2590,40 @@
         "link": "https://solarmoviez.to/movie/drinking-buddies-2838.html", 
         "Release": "1976"
     }, 
+    "Watership Down": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/watership-down-10497.html", 
+        "Release": "1994"
+    }, 
+    "Cape Fear": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/cape-fear-11121.html", 
+        "Release": "1994"
+    }, 
     "Life Of A King": {
         "status": "toVisit", 
         "IMBD": "7.7", 
@@ -2071,6 +2640,23 @@
         ], 
         "link": "https://solarmoviez.to/movie/life-of-a-king-2839.html", 
         "Release": "2016"
+    }, 
+    "The Reunion": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-reunion-12671.html", 
+        "Release": "2015"
     }, 
     "Dirty Laundry": {
         "status": "toVisit", 
@@ -2089,6 +2675,56 @@
         "link": "https://solarmoviez.to/movie/dirty-laundry-11503.html", 
         "Release": "1974"
     }, 
+    "Goodbye To Language": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/goodbye-to-language-2480.html", 
+        "Release": "1993"
+    }, 
+    "Paranoid Park": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/paranoid-park-13728.html", 
+        "Release": "1994"
+    }, 
+    "The Kid": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-kid-14116.html", 
+        "Release": "1994"
+    }, 
     "It Could Happen to You": {
         "status": "done", 
         "IMBD": "6.5", 
@@ -2104,6 +2740,39 @@
         ], 
         "link": "https://solarmoviez.to/movie/it-could-happen-to-you-5829.html", 
         "Release": "1976"
+    }, 
+    "Fading Gigolo": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/fading-gigolo-2581.html", 
+        "Release": "1993"
+    }, 
+    "Teachers": {
+        "status": "toVisit", 
+        "IMBD": "7.2", 
+        "Genres": [
+            "Adventure", 
+            "Family", 
+            "Drama"
+        ], 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "BigShots": [
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
+        ], 
+        "link": "https://solarmoviez.to/movie/teachers-18631.html", 
+        "Release": "1954"
     }, 
     "Righteous Kill": {
         "status": "done", 
@@ -2171,39 +2840,39 @@
         "link": "https://solarmoviez.to/movie/heaven-can-wait-7432.html", 
         "Release": "1984"
     }, 
-    "Miracle Mile": {
+    "Carousel": {
         "status": "toVisit", 
         "IMBD": "6.3", 
         "Genres": [
-            "Romance", 
-            "Comedy", 
-            "Drama"
+            "Thriller", 
+            "Drama", 
+            "Mystery"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
         ], 
-        "link": "https://solarmoviez.to/movie/miracle-mile-5831.html", 
-        "Release": "1994"
+        "link": "https://solarmoviez.to/movie/carousel-17706.html", 
+        "Release": "2015"
     }, 
-    "Tell": {
+    "No Reservations": {
         "status": "toVisit", 
-        "IMBD": "6.3", 
+        "IMBD": "7.2", 
         "Genres": [
-            "Romance", 
-            "Comedy", 
+            "Adventure", 
+            "Family", 
             "Drama"
         ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
         "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
+            "Kirk Douglas", 
+            "James Mason", 
+            "Paul Lukas"
         ], 
-        "link": "https://solarmoviez.to/movie/tell-1676.html", 
-        "Release": "1994"
+        "link": "https://solarmoviez.to/movie/no-reservations-12658.html", 
+        "Release": "1954"
     }, 
     "Funny Lady": {
         "status": "toVisit", 
@@ -2271,40 +2940,6 @@
         "link": "https://solarmoviez.to/movie/midnight-sex-run-2957.html", 
         "Release": "1974"
     }, 
-    "The Last Time You Had Fun": {
-        "status": "toVisit", 
-        "IMBD": "6.3", 
-        "Genres": [
-            "Romance", 
-            "Comedy", 
-            "Drama"
-        ], 
-        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
-        "BigShots": [
-            "Nicolas Cage", 
-            "Bridget Fonda", 
-            "Rosie Perez"
-        ], 
-        "link": "https://solarmoviez.to/movie/the-last-time-you-had-fun-2230.html", 
-        "Release": "1994"
-    }, 
-    "Good Vibrations": {
-        "status": "toVisit", 
-        "IMBD": "5", 
-        "Genres": [
-            "Comedy", 
-            "Drama", 
-            "Fantasy"
-        ], 
-        "description": "After eating a South Korean chicken ball, Lucy Chadman (Shelley Long) choked to death and soon fades away from everyone's memory. Brought back to life by a magical spell, how will the unlucky housewife accept all the changes happened while she was away?", 
-        "BigShots": [
-            "Shelley Long", 
-            "Judith Ivey", 
-            "Gabriel Byrne"
-        ], 
-        "link": "https://solarmoviez.to/movie/good-vibrations-16673.html", 
-        "Release": "1984"
-    }, 
     "The Resurrection of Gavin Stone": {
         "status": "toVisit", 
         "IMBD": "3.2", 
@@ -2320,22 +2955,22 @@
         "link": "https://solarmoviez.to/movie/the-resurrection-of-gavin-stone-20447.html", 
         "Release": "1990"
     }, 
-    "No Reservations": {
+    "Love Happens": {
         "status": "toVisit", 
-        "IMBD": "7.2", 
+        "IMBD": "6.3", 
         "Genres": [
-            "Adventure", 
-            "Family", 
-            "Drama"
+            "Thriller", 
+            "Drama", 
+            "Mystery"
         ], 
-        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
         "BigShots": [
-            "Kirk Douglas", 
-            "James Mason", 
-            "Paul Lukas"
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
         ], 
-        "link": "https://solarmoviez.to/movie/no-reservations-12658.html", 
-        "Release": "1954"
+        "link": "https://solarmoviez.to/movie/love-happens-14686.html", 
+        "Release": "2015"
     }, 
     "It Felt Like Love": {
         "status": "done", 
@@ -2352,6 +2987,38 @@
         ], 
         "link": "https://solarmoviez.to/movie/it-felt-like-love-6519.html", 
         "Release": "1976"
+    }, 
+    "Ghost Dog: The Way of the Samurai": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/ghost-dog-the-way-of-the-samurai-19586.html", 
+        "Release": "1993"
+    }, 
+    "The Double": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-double-12080.html", 
+        "Release": "1993"
     }, 
     "Savaged": {
         "status": "toVisit", 
@@ -2436,6 +3103,22 @@
         "link": "https://solarmoviez.to/movie/one-hour-photo-2689.html", 
         "Release": "1990"
     }, 
+    "Meteor (1979)": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/meteor-1979-17906.html", 
+        "Release": "1993"
+    }, 
     "Quiz Show": {
         "status": "toVisit", 
         "IMBD": "3.2", 
@@ -2468,22 +3151,22 @@
         "link": "https://solarmoviez.to/movie/the-stunt-man-14141.html", 
         "Release": "1974"
     }, 
-    "Teachers": {
+    "Jesse Stone: Death In Paradise": {
         "status": "toVisit", 
-        "IMBD": "7.2", 
+        "IMBD": "6.3", 
         "Genres": [
-            "Adventure", 
-            "Family", 
+            "Romance", 
+            "Comedy", 
             "Drama"
         ], 
-        "description": "A group of scientists and seamen is sent by the U.S. government to the Pacific Ocean to investigate the missing of so many ships by the time of 1868. The crew enters the expedition--and soon encounters the brilliant but paranoid Captain Nemo, who leads a deadly crusade across the ocean in his lavish, scientifically advanced submarine.", 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
         "BigShots": [
-            "Kirk Douglas", 
-            "James Mason", 
-            "Paul Lukas"
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
         ], 
-        "link": "https://solarmoviez.to/movie/teachers-18631.html", 
-        "Release": "1954"
+        "link": "https://solarmoviez.to/movie/jesse-stone-death-in-paradise-5057.html", 
+        "Release": "1994"
     }, 
     "What To Expect When You're Expecting": {
         "status": "toVisit", 
@@ -2536,6 +3219,23 @@
         "link": "https://solarmoviez.to/movie/trust-me-6202.html", 
         "Release": "1984"
     }, 
+    "Grey Met Shrek": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Thriller", 
+            "Drama", 
+            "Mystery"
+        ], 
+        "description": "River Miller is a mentally unstable 27 year old haunted by the death of his girlfriend, Jordana. Trapped by the voices and visions in his head, River's world begins to crumble forcing him to move to new surroundings hoping to calm his demons, but when he moves in with Wulf and Ivy, two vampy hipsters with an agenda of their own.", 
+        "BigShots": [
+            "Samaire Armstrong", 
+            "Anna Biani", 
+            "Matt Cohen"
+        ], 
+        "link": "https://solarmoviez.to/movie/grey-met-shrek-3188.html", 
+        "Release": "2015"
+    }, 
     "Above The Rim": {
         "status": "toVisit", 
         "IMBD": "3.2", 
@@ -2550,6 +3250,22 @@
         ], 
         "link": "https://solarmoviez.to/movie/above-the-rim-4008.html", 
         "Release": "1990"
+    }, 
+    "Wizards of Waverly Place: The Movie": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/wizards-of-waverly-place-the-movie-11095.html", 
+        "Release": "1993"
     }, 
     "Five Nights in Maine": {
         "status": "toVisit", 
@@ -2566,21 +3282,22 @@
         "link": "https://solarmoviez.to/movie/five-nights-in-maine-15394.html", 
         "Release": "1990"
     }, 
-    "Chori Chori Chupke Chupke": {
-        "status": "done", 
-        "IMBD": "6.5", 
+    "Summer Love": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
         "Genres": [
-            "War", 
+            "Romance", 
+            "Comedy", 
             "Drama"
         ], 
-        "description": "The story was inspired by true events concerning the fate of the MS St. Louis ocean liner carrying Jewish refugees from Germany to Cuba in 1939. The ship was eventually obliged to return to Germany, where certain death awaited its passengers.", 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
         "BigShots": [
-            "Faye Dunaway", 
-            "Oskar Werner", 
-            "Lee Grant"
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
         ], 
-        "link": "https://solarmoviez.to/movie/chori-chori-chupke-chupke-11162.html", 
-        "Release": "1976"
+        "link": "https://solarmoviez.to/movie/summer-love-15591.html", 
+        "Release": "1994"
     }, 
     "Hester Street": {
         "status": "toVisit", 
@@ -2598,5 +3315,72 @@
         ], 
         "link": "https://solarmoviez.to/movie/hester-street-20680.html", 
         "Release": "2015"
+    }, 
+    "Cemetery of Splendor": {
+        "status": "toVisit", 
+        "IMBD": "8.6", 
+        "Genres": [
+            "Thriller", 
+            "Crime", 
+            "Drama"
+        ], 
+        "description": "Directed by Luc Beson, this drama thriller features L\u00e9on, a coldblood hitman who is responsible for the murder of a 12 year-old girl's family. Deceived by L\u00e9on, Mathilda becomes his assasinating student.", 
+        "BigShots": [
+            "Jean Reno", 
+            "Gary Oldman", 
+            "Natalie Portman"
+        ], 
+        "link": "https://solarmoviez.to/movie/cemetery-of-splendor-13653.html", 
+        "Release": "1994"
+    }, 
+    "The Siege of Firebase Gloria": {
+        "status": "toVisit", 
+        "IMBD": "7.9", 
+        "Genres": [
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "To run away from an attack of the family of a girl he raped, Johnny moves to London. He becomes homless, walks arround the city, talk to strangers and meets people in the same difficult case with him.", 
+        "BigShots": [
+            "David Thewlis", 
+            "Lesley Sharp", 
+            "Katrin Cartlidge"
+        ], 
+        "link": "https://solarmoviez.to/movie/the-siege-of-firebase-gloria-9207.html", 
+        "Release": "1993"
+    }, 
+    "If There Be Thorns": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/if-there-be-thorns-3170.html", 
+        "Release": "1994"
+    }, 
+    "Breakfast At Tiffanys": {
+        "status": "toVisit", 
+        "IMBD": "6.3", 
+        "Genres": [
+            "Romance", 
+            "Comedy", 
+            "Drama"
+        ], 
+        "description": "Charlie Lang, a kind and generous police man had promised the waitress who he hadn\u2019t been able to tip a half of his lottery. The micrale they all prayed for came true. Whether Charlie will keep his promise or not will lead us to a comedy, romantic and touching story.", 
+        "BigShots": [
+            "Nicolas Cage", 
+            "Bridget Fonda", 
+            "Rosie Perez"
+        ], 
+        "link": "https://solarmoviez.to/movie/breakfast-at-tiffanys-4491.html", 
+        "Release": "1994"
     }
 }
