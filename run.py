@@ -8,6 +8,8 @@ from selenium.webdriver.support.ui import Select
 import urllib
 
 import time
+import json
+
 
 
 
@@ -100,10 +102,10 @@ class Movie(object):
  SETUP
  - first get a list of 10 related movies and put it in 
  moviesDict with all values toDo
- - Also put all in moviesToDo
+ - Also put all in moviesToVist
 
-LOOP until moviesToDo is empty
- - get first movie from moviesToDo and check with moviesDict
+LOOP until moviesToVist is empty
+ - get first movie from moviesToVist and check with moviesDict
  - if it says toDo then go there else delete it and continue
  - go to the page and make it "visited" in moviesDict
  - add new related movies to moviesDict and movesToDo
@@ -115,13 +117,24 @@ LOOP until moviesToDo is empty
 
 
 
-url = 'https://solarmoviez.to/movie/breaking-bad-the-movie-19810.html'
 
 moviesDict = {}
 moviesToVist = []
 
+driver = webdriver.Chrome('/Users/Parth/Desktop/download-all/chromedriver')
 
-def getRelatedMovie():
+def setup():
+    global driver
+
+    url = 'https://solarmoviez.to/movie/breaking-bad-the-movie-19810.html'
+    driver.get(url)
+    getRelatedMovies()
+
+    makeListOfAllMovies()
+
+
+
+def getRelatedMovies():
     global driver, moviesDict, moviesToVist
 
     relatedMoviesXpath = "/html/body/div[@id='xmain']/div[@id='main']/div[@class='container']/div[@class='main-content main-detail ']/div[@class='movies-list-wrap mlw-related']/div[@id='movies-related']/div[@class='ml-item']"
@@ -129,71 +142,100 @@ def getRelatedMovie():
     addXpath = "/a[@class='ml-mask']" #prepend -> [1]
     numOfRelatedMovies = len(driver.find_elements_by_xpath(relatedMoviesXpath))
 
-    print(numOfRelatedMovies)
+    #print(numOfRelatedMovies)
 
     for i in range(1,numOfRelatedMovies+1):
         xpath = relatedMoviesXpath + '[' + str(i)+ ']' + addXpath
         relatedMovie = driver.find_element_by_xpath(xpath)
-        movieQuality = relatedMovie.text.split()[0]
-        if movieQuality == 'HD' and not movieQuality[1] in moviesDict.keys():
-            moviesToVist.append(Movie(movieQuality[1], relatedMovie.get_attribute("href")))
-            moviesDict[movieQuality[1]] = "toDo"
+        movieInfo = relatedMovie.text.split('\n')
+        print(movieInfo)
+        if movieInfo[0] == 'HD' and not movieInfo[1] in moviesDict.keys():
+            moviesToVist.append(Movie(movieInfo[1], relatedMovie.get_attribute("href")))
+            
+            moviesDict[movieInfo[1]] = "toVisit"
 
-    print(moviesDict)
+    print("got "+str(len(moviesDict))+" movies in all")
 
 
-def visitCurrentMovie():
+
+def visitMovie(movie):
+    global driver, moviesDict
+
+    driver.get(movie.link)
+    getRelatedMovies()
+    moviesDict[movie.name] = "done"
+
 
 
 def makeListOfAllMovies():
-    while len(moviesToVist):
+    global moviesDict, moviesToVist
+
+    while len(moviesToVist) < 20:
+        movieName = moviesToVist[0].name
+        if movieName in moviesDict.keys() and moviesDict[movieName] == "toVisit":
+            visitMovie(moviesToVist[0])
+
+        moviesToVist.pop(0)
+
+
+
+def outputInFile():
+    f = open('movies.txt', 'w')
+    f.write(json.dumps(moviesDict))
+    f.close()
+
+
+try:
+    setup()
+except Exception as e:
+    print_error(e)
+    outputInFile()
 
 
 
 
 
+# while True:
+#     driver = webdriver.Chrome('/Users/Parth/Desktop/download-all/chromedriver')
+#     driver.get(url)
 
-while True:
-    driver = webdriver.Chrome('/Users/Parth/Desktop/download-all/chromedriver')
-    driver.get(url)
+#     time.sleep(2)
 
-    time.sleep(2)
-
-    # nextMovieLink = driver.find_element_by_class_name('ml-mask').get_attribute("href")
-    # print(nextMovieLink)
+#     # nextMovieLink = driver.find_element_by_class_name('ml-mask').get_attribute("href")
+#     # print(nextMovieLink)
 
     
 
 
 
-    # print("downloading " + str(movieName))
-    # movies.append(movieName)
+#     # print("downloading " + str(movieName))
+#     # movies.append(movieName)
 
-    # if driver.find_element_by_class_name("mli-quality").get_attribute("innerText") == 'HD':
-    #     pass
-
-
-
-    movieLink = driver.find_element_by_class_name('bwac-btn').get_attribute("href")
+#     # if driver.find_element_by_class_name("mli-quality").get_attribute("innerText") == 'HD':
+#     #     pass
 
 
-    driver.get(movieLink)
 
-    time.sleep(1)
-
-    downloadLink = driver.find_element_by_tag_name('video').get_attribute("src")
-    driver.close()
+#     movieLink = driver.find_element_by_class_name('bwac-btn').get_attribute("href")
 
 
-    movieSave = str(movieName) + ".mp4"
-    #exampleurl = 'https://r4---sn-ab5szn7l.googlevideo.com/videoplayback?id=928514188706eacf&itag=22&source=webdrive&requiressl=yes&ttl=transient&pl=17&sc=yes&ei=fFEdWfRKgsipBcP_vKAF&driveid=0B8HbXCjz8jjwNENjaFVBaE5XWTA&mime=video/mp4&lmt=1489784776389217&ip=162.243.61.106&ipbits=0&expire=1495108028&sparams=driveid,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,sc,source,ttl&signature=70653B46FC920C73E0487A0D753855098172033D.3599D2E8EEE308C880FB2D66F9944A45F2B41F1A&key=cms1&app=explorer&cms_redirect=yes&mm=31&mn=sn-ab5szn7l&ms=au&mt=1495102525&mv=m'
-    urllib.urlretrieve(downloadLink, movieSave, hook)
+#     driver.get(movieLink)
 
-    moviesDict
+#     time.sleep(1)
+
+#     downloadLink = driver.find_element_by_tag_name('video').get_attribute("src")
+#     driver.close()
+
+
+#     movieSave = str(movieName) + ".mp4"
+#     #exampleurl = 'https://r4---sn-ab5szn7l.googlevideo.com/videoplayback?id=928514188706eacf&itag=22&source=webdrive&requiressl=yes&ttl=transient&pl=17&sc=yes&ei=fFEdWfRKgsipBcP_vKAF&driveid=0B8HbXCjz8jjwNENjaFVBaE5XWTA&mime=video/mp4&lmt=1489784776389217&ip=162.243.61.106&ipbits=0&expire=1495108028&sparams=driveid,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,sc,source,ttl&signature=70653B46FC920C73E0487A0D753855098172033D.3599D2E8EEE308C880FB2D66F9944A45F2B41F1A&key=cms1&app=explorer&cms_redirect=yes&mm=31&mn=sn-ab5szn7l&ms=au&mt=1495102525&mv=m'
+#     urllib.urlretrieve(downloadLink, movieSave, hook)
+
+#     moviesDict
     
-    print_success('DONE\n')
+#     print_success('DONE\n')
 
-    url = nextMovieLink
+#     url = nextMovieLink
 
 
 
