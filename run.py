@@ -77,16 +77,16 @@ def hook(arg1, arg2, arg3):
 
 
 
-class Movie(object):
-    name = ""
-    link = ""
+# class Movie(object):
+#     name = ""
+#     link = ""
 
-    def __init__(self, name, link):
-        self.name = name.encode()
-        self.link = link.encode()
+#     def __init__(self, name, link):
+#         self.name = name.encode()
+#         self.link = link.encode()
         
-    def __str__(self):
-        return "name: "+self.name+"\nlink: "+self.link+"\n"
+#     def __str__(self):
+#         return "name: "+self.name+"\nlink: "+self.link+"\n\n"
 
 
 #display = Display(visible=0, size=(800, 600))
@@ -108,10 +108,10 @@ class Movie(object):
  SETUP
  - first get a list of 10 related movies and put it in 
  moviesDict with all values toDo
- - Also put all in moviesToVist
+ - Also put all in moviesToVisit
 
-LOOP until moviesToVist is empty
- - get first movie from moviesToVist and check with moviesDict
+LOOP until moviesToVisit is empty
+ - get first movie from moviesToVisit and check with moviesDict
  - if it says toDo then go there else delete it and continue
  - go to the page and make it "visited" in moviesDict
  - add new related movies to moviesDict and movesToDo
@@ -123,13 +123,14 @@ LOOP until moviesToVist is empty
 
 
 
-url = 'https://solarmoviez.to/movie/voyage-of-the-damned-13167.html'
+url = 'https://solarmoviez.to/movie/the-lost-city-of-z-21161.html'
 
 moviesDict = {}
-moviesToVist = []
+moviesToVisit = []
 errorNum = 0
+done = 0
 
-driver = webdriver.Chrome('/Users/Parth/Desktop/download-all/chromedriver')
+driver = webdriver.Chrome('/Users/Parth/Desktop/hacker-stuff/download-all/chromedriver')
 
 def start():
     global driver, url
@@ -144,7 +145,7 @@ def start():
 
 
 def getRelatedMovies():
-    global driver, moviesDict, moviesToVist
+    global driver, moviesDict, moviesToVisit
 
     relatedMoviesXpath = "/html/body/div[@id='xmain']/div[@id='main']/div[@class='container']/div[@class='main-content main-detail ']/div[@class='movies-list-wrap mlw-related']/div[@id='movies-related']/div[@class='ml-item']"
     #driver.find_elements_by_xpath(du)[1].text
@@ -160,12 +161,13 @@ def getRelatedMovies():
         movieName = movieInfo[1].encode()
         #print(movieInfo)
         if movieInfo[0] == 'HD' and not movieName in moviesDict.keys():
-            moviesToVist.append(Movie(movieName, relatedMovie.get_attribute("href")))
+            #moviesToVisit.append(Movie(movieName, relatedMovie.get_attribute("href")))
+            moviesToVisit.append(movieName)
             getMoreMovieInfo(movieName, relatedMovie.get_attribute("href"))
             #moviesDict[movieInfo[1]] = "toVisit"
 
     print("got "+str(len(moviesDict))+" movies in all")
-    print(str(len(moviesToVist))+" movies left to visit!")
+    print(str(len(moviesToVisit))+" movies left to visit!")
 
 
 def getMoreMovieInfo(movieName, movieLink):
@@ -198,28 +200,29 @@ def getMoreMovieInfo(movieName, movieLink):
 
 
 def visitMovie(movie):
-    global driver, moviesDict, url
+    global driver, moviesDict, url, done
     #print('LOLOLOLOLOLOLOL')
-    url = movie.link
-    name = movie.name.encode()
-    driver.get(movie.link)
+    name = movie.encode()
+    url = moviesDict[name]["link"]
+    driver.get(url)
     #time.sleep(1)
     getRelatedMovies()
     moviesDict[name]["status"] = "done"
+    done += 1
+    print("visited "+str(done)+" movies, can save n stop now")
 
 
 
 def makeListOfAllMovies():
-    global moviesDict, moviesToVist
+    global moviesDict, moviesToVisit
 
-    while len(moviesToVist) > 0:
-        movie = moviesToVist[0]
-        movieName = movie.name.encode()
+    while len(moviesToVisit) > 0:
+        movieName = moviesToVisit[0].encode()
         if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
-            visitMovie(movie)
+            visitMovie(movieName)
 
         print('poping unique!')
-        moviesToVist.pop(0)
+        moviesToVisit.pop(0)
 
 
     outputInFile()
@@ -234,6 +237,11 @@ def outputInFile():
     f = open('movies.txt', 'w')
     f.write(json.dumps(moviesDict, indent=4))
     f.close()
+
+    g = open('moviesToVisit.txt', 'w')
+    json.dump(moviesToVisit, g)
+    g.close()
+
     
 
 
@@ -246,23 +254,37 @@ def command():
 
 
 
-thread.start_new_thread(command, ())
 
 while True:
     
+    i = raw_input("continue? press c: ")
+
+    if i == 'c':
+        done = int(raw_input("how many done? "))
+        f = open('movies.txt', 'r')
+        g = open('moviesToVisit.txt', 'r')
+        moviesDict = json.load(f)
+        moviesToVisit = json.load(g)
+        f.close()
+        g.close()
+
+    thread.start_new_thread(command, ())
+
     try:
-        #command()
-        start()        
-        print("contine...")
+        if i == "c":
+            makeListOfAllMovies()
+        else:
+            start()        
+        
         
 
     except Exception as e:
         print_error(e)
         ex_type, ex, tb = sys.exc_info()
         traceback.print_tb(tb)
-
+        print("!!SAVING!!")
         outputInFile()
-        driver.get_screenshot_as_file('error'+str(errorNum)+'.png')
+        #driver.get_screenshot_as_file('error'+str(errorNum)+'.png')
 
         errFile = open('error.txt', 'r+')
         errFile.seek(0,2)
@@ -273,8 +295,8 @@ while True:
         errorNum += 1
         if errorNum > 10:
             sys.exit()
-        #driver.close()
-    
+            driver.close()
+        print("contine...")
 
 
 
