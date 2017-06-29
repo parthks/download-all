@@ -24,12 +24,14 @@ moviesToVisit = []
 errorNum = 0
 done = 0
 
-# display = Display(visible=0, size=(800, 600))
-# display.start()
+#COMMENT THESE 2 LINES IF RUNNING LOCALLY!
+display = Display(visible=0, size=(800, 600))
+display.start()
+
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--no-sandbox')
-driver = webdriver.Chrome('/usr/local/bin/chromedriver')
-#driver = webdriver.Chrome('/usr/local/bin/chromedriver', chrome_options=chrome_options)
+#driver = webdriver.Chrome('/usr/local/bin/chromedriver')
+driver = webdriver.Chrome('/usr/local/bin/chromedriver', chrome_options=chrome_options)
 print("Started Chrome!! YAYY")
 
 
@@ -209,13 +211,11 @@ def getMoreMovieInfo(movieName, movieLink):
 
 def visitMovie(movie):
     global driver, moviesDict, url, done
-    #print('LOLOLOLOLOLOLOL')
-    name = movie.encode()
-    url = moviesDict[name]["link"]
+    url = moviesDict[movie]["link"]
     driver.get(url)
     #time.sleep(1)
     getRelatedMovies()
-    moviesDict[name]["status"] = "done"
+    moviesDict[movie]["status"] = "done"
     done += 1
     if (done % 50 == 0):
         outputInFile()
@@ -229,7 +229,7 @@ def makeListOfAllMovies():
     while len(moviesToVisit) > 0:
         movieName = moviesToVisit[0].encode()
         if movieName in moviesDict.keys() and moviesDict[moviesToVisit[0]]["status"] == "toVisit":
-            visitMovie(movieName)
+            visitMovie(moviesToVisit[0])
 
         print('poping unique!')
         moviesToVisit.pop(0)
@@ -301,7 +301,7 @@ while True:
         errFile = open('errorMovies.txt', 'r+')
         errFile.seek(0,2)
         traceback.print_tb(tb, file=errFile)
-        #errFile.write(str(errorNum) +' -- '+ str(e)+'\n\n')
+        errFile.write(str(errorNum) +' -- '+ str(e)+'\n\n')
         errFile.write(str(moviesToVisit[0])+'\n')
         errFile.close()
         moviesDict[moviesToVisit[0]]["status"] = "ERROR"
@@ -309,7 +309,10 @@ while True:
         print_warning("Popped element!")
         print(moviesToVisit[0])
         outputInFile()
-        raw_input("continue...")
+        print("continue...")
+        thread.start_new_thread(command, ())
+
+
 
 
 
