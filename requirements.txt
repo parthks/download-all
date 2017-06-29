@@ -1,0 +1,3 @@
+selenium==3.4.1
+wget==3.2
+pyvirtualdisplay

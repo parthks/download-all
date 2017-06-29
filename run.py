@@ -3,7 +3,7 @@ import math
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
-#from pyvirtualdisplay import Display
+from pyvirtualdisplay import Display
 
 import urllib
 
@@ -16,7 +16,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-
+display = Display(visible=0, size=(800, 600))
+display.start()
 
 
 '''
@@ -130,7 +131,13 @@ moviesToVisit = []
 errorNum = 0
 done = 0
 
-driver = webdriver.Chrome('/Users/Parth/Desktop/hacker-stuff/download-all/chromedriver')
+display = Display(visible=0, size=(800, 600))
+display.start()
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--no-sandbox')
+driver = webdriver.Chrome('/usr/local/bin/chromedriver', chrome_options=chrome_options)
+print("Started Chrome!! YAYY")
+
 
 def start():
     global driver, url
