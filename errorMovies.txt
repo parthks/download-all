@@ -1,0 +1,30 @@
+  File "run.py", line 288, in <module>
+    makeListOfAllMovies()
+  File "run.py", line 232, in makeListOfAllMovies
+    if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
+Caché
+  File "run.py", line 288, in <module>
+    makeListOfAllMovies()
+  File "run.py", line 232, in makeListOfAllMovies
+    if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
+Caché
+  File "run.py", line 288, in <module>
+    makeListOfAllMovies()
+  File "run.py", line 232, in makeListOfAllMovies
+    if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
+Caché
+  File "run.py", line 288, in <module>
+    makeListOfAllMovies()
+  File "run.py", line 232, in makeListOfAllMovies
+    if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
+Caché
+  File "run.py", line 288, in <module>
+    makeListOfAllMovies()
+  File "run.py", line 232, in makeListOfAllMovies
+    if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
+Caché
+  File "run.py", line 288, in <module>
+    makeListOfAllMovies()
+  File "run.py", line 232, in makeListOfAllMovies
+    if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
+Caché

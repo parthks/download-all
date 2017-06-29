@@ -16,8 +16,22 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-display = Display(visible=0, size=(800, 600))
-display.start()
+
+url = 'https://solarmoviez.to/movie/the-lost-city-of-z-21161.html'
+
+moviesDict = {}
+moviesToVisit = []
+errorNum = 0
+done = 0
+
+# display = Display(visible=0, size=(800, 600))
+# display.start()
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--no-sandbox')
+driver = webdriver.Chrome('/usr/local/bin/chromedriver')
+#driver = webdriver.Chrome('/usr/local/bin/chromedriver', chrome_options=chrome_options)
+print("Started Chrome!! YAYY")
+
 
 
 '''
@@ -124,19 +138,6 @@ LOOP until moviesToVisit is empty
 
 
 
-url = 'https://solarmoviez.to/movie/the-lost-city-of-z-21161.html'
-
-moviesDict = {}
-moviesToVisit = []
-errorNum = 0
-done = 0
-
-display = Display(visible=0, size=(800, 600))
-display.start()
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--no-sandbox')
-driver = webdriver.Chrome('/usr/local/bin/chromedriver', chrome_options=chrome_options)
-print("Started Chrome!! YAYY")
 
 
 def start():
@@ -216,6 +217,8 @@ def visitMovie(movie):
     getRelatedMovies()
     moviesDict[name]["status"] = "done"
     done += 1
+    if (done % 50 == 0):
+        outputInFile()
     print("visited "+str(done)+" movies, can save n stop now")
 
 
@@ -225,7 +228,7 @@ def makeListOfAllMovies():
 
     while len(moviesToVisit) > 0:
         movieName = moviesToVisit[0].encode()
-        if movieName in moviesDict.keys() and moviesDict[movieName]["status"] == "toVisit":
+        if movieName in moviesDict.keys() and moviesDict[moviesToVisit[0]]["status"] == "toVisit":
             visitMovie(movieName)
 
         print('poping unique!')
@@ -249,6 +252,12 @@ def outputInFile():
     json.dump(moviesToVisit, g)
     g.close()
 
+    d = open('done.txt', 'w')
+    d.write(str(done))
+    d.close()
+
+    print_success("DONE SAVING!!!")
+
     
 
 
@@ -256,17 +265,11 @@ def command():
     takeInput = raw_input('Press "s" at any time to SAVE\n')
     if takeInput == "s":
         outputInFile()
-        print_success("DONE SAVING!!!")
         thread.start_new_thread(command, ())
 
 
-
-
-while True:
-    
-    i = raw_input("continue? press c: ")
-
-    if i == 'c':
+i = raw_input("continue? press c: ")
+if i == 'c':
         done = int(raw_input("how many done? "))
         f = open('movies.txt', 'r')
         g = open('moviesToVisit.txt', 'r')
@@ -275,35 +278,38 @@ while True:
         f.close()
         g.close()
 
-    thread.start_new_thread(command, ())
+thread.start_new_thread(command, ())
 
+while True:
+    
     try:
         if i == "c":
             makeListOfAllMovies()
         else:
-            start()        
-        
-        
+            # i = raw_input("are you sure you want to start over?")
+            # start()
+            pass        
 
     except Exception as e:
-        print_error(e)
+        print_error("ERROR")
+        #print_error(e)
         ex_type, ex, tb = sys.exc_info()
         traceback.print_tb(tb)
-        print("!!SAVING!!")
         outputInFile()
         #driver.get_screenshot_as_file('error'+str(errorNum)+'.png')
 
-        errFile = open('error.txt', 'r+')
+        errFile = open('errorMovies.txt', 'r+')
         errFile.seek(0,2)
         traceback.print_tb(tb, file=errFile)
-        errFile.write(str(errorNum) +' -- '+ str(e)+'\n\n')
+        #errFile.write(str(errorNum) +' -- '+ str(e)+'\n\n')
+        errFile.write(str(moviesToVisit[0])+'\n')
         errFile.close()
-
-        errorNum += 1
-        if errorNum > 10:
-            sys.exit()
-            driver.close()
-        print("contine...")
+        moviesDict[moviesToVisit[0]]["status"] = "ERROR"
+        moviesToVisit.pop()
+        print_warning("Popped element!")
+        print(moviesToVisit[0])
+        outputInFile()
+        raw_input("continue...")
 
 
 
