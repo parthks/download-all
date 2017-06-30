@@ -1,0 +1,28 @@
+  File "run.py", line 289, in <module>
+    makeListOfAllMovies()
+  File "run.py", line 234, in makeListOfAllMovies
+    visitMovie(movieName)
+  File "run.py", line 216, in visitMovie
+    url = moviesDict[name]["link"]
+0 -- 'R\xc3\xa9alit\xc3\xa9'
+
+Réalité
+  File "run.py", line 287, in <module>
+    makeListOfAllMovies()
+  File "run.py", line 232, in makeListOfAllMovies
+    visitMovie(moviesToVisit[0])
+  File "run.py", line 215, in visitMovie
+    driver.get(url)
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/webdriver.py", line 264, in get
+    self.execute(Command.GET, {'url': url})
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python2.7/dist-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+0 -- Message: timeout: cannot determine loading status
+from timeout: Timed out receiving message from renderer: -0.020
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.26.436382 (70eb799287ce4c2208441fc057053a5b07ceabac),platform=Linux 4.4.0-81-generic x86_64)
+
+
+Allied

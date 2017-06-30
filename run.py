@@ -106,19 +106,6 @@ def hook(arg1, arg2, arg3):
 #         return "name: "+self.name+"\nlink: "+self.link+"\n\n"
 
 
-#display = Display(visible=0, size=(800, 600))
-#display.start()
-#driver = webdriver.Chrome('/Users/Parth/Desktop/download-all/chromedriver')
-#driver = webdriver.PhantomJS(service_args=['--ssl-protocol=any'])  
-#driver.implicitly_wait(1) 
-
-#driver.get(startingUrl)
-
-#get movie page
-
-#url = "https://solarmoviez.to/movie/the-accidental-spy-2014.html"
-
-
 
 
 '''
