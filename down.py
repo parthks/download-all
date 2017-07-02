@@ -86,7 +86,7 @@ def logMovie(name):
 
 def logError(name):
     f = open('errorDown.txt', 'a')
-    f.write(str(name))
+    f.write(name + '\n')
     f.close()
 
 def get_movie(name, link):

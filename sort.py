@@ -13,6 +13,8 @@ sortedDict = {}
 ratings = []
 
 for name in moviesDict:
+    if moviesDict[name]['status'] == 'toVisit':
+        continue
     imbd = moviesDict[name]['IMBD']
     imbd = ''+str(imbd)+''
     if imbd in sortedDict:

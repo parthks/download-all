@@ -1,3 +1,7 @@
+#idea - using related movies on each page
+#u can acess every movie on site
+#reality - not really u FOOL! - just browse the pages :P
+
 import math
 
 from selenium import webdriver
