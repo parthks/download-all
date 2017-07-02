@@ -17,7 +17,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
-url = 'https://solarmoviez.to/movie/the-lost-city-of-z-21161.html'
+url = 'https://solarmoviez.to/movie/harry-potter-and-the-sorcerers-stone-1552.html'
 
 moviesDict = {}
 moviesToVisit = []
@@ -25,8 +25,8 @@ errorNum = 0
 done = 0
 
 #COMMENT THESE 2 LINES IF RUNNING LOCALLY!
-display = Display(visible=0, size=(800, 600))
-display.start()
+# display = Display(visible=0, size=(800, 600))
+# display.start()
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--no-sandbox')
@@ -160,11 +160,22 @@ def getRelatedMovies():
         if movieInfo[0] == 'HD' and not movieName in moviesDict.keys():
             #moviesToVisit.append(Movie(movieName, relatedMovie.get_attribute("href")))
             moviesToVisit.append(movieName)
-            getMoreMovieInfo(movieName, relatedMovie.get_attribute("href"))
+            getLittleMovieInfo(movieName, relatedMovie.get_attribute("href"))
             #moviesDict[movieInfo[1]] = "toVisit"
 
     print("got "+str(len(moviesDict))+" movies in all")
     print(str(len(moviesToVisit))+" movies left to visit!")
+
+
+def getLittleMovieInfo(movieName, movieLink):
+    global moviesDict
+    tempDict = { 'link': movieLink,
+     'status': "toVisit"
+
+    }
+    moviesDict[movieName] = tempDict
+
+
 
 
 def getMoreMovieInfo(movieName, movieLink):
@@ -177,7 +188,7 @@ def getMoreMovieInfo(movieName, movieLink):
     xpathGenres = "/html/body/div[@id='xmain']/div[@id='main']/div[@class='container']/div[@class='main-content main-detail ']/div[@class='md-top']/div[@id='mv-info']/div[@class='mvi-content']/div[@class='mvic-desc']/div[@class='mvic-info']/div[@class='mvici-left']/p[1]"
 
 
-    status = "toVisit"
+    status = "done"
     descrip = driver.find_element_by_xpath(xpathDescription).text
     imbd = driver.find_element_by_xpath(xpathImbd).text.split(': ')[1]
     date = driver.find_element_by_xpath(xpathDate).text.split(': ')[1]
@@ -194,7 +205,7 @@ def getMoreMovieInfo(movieName, movieLink):
     }
 
     moviesDict[movieName] = tempDict
-
+    #print moviesDict
 
 def visitMovie(movie):
     global driver, moviesDict, url, done
@@ -202,7 +213,7 @@ def visitMovie(movie):
     driver.get(url)
     #time.sleep(1)
     getRelatedMovies()
-    moviesDict[movie]["status"] = "done"
+    getMoreMovieInfo(movie, url)
     done += 1
     if (done % 50 == 0):
         outputInFile()
@@ -255,13 +266,16 @@ def command():
         thread.start_new_thread(command, ())
 
 
+
 i = raw_input("continue? press c: ")
 if i == 'c':
-        done = int(raw_input("how many done? "))
+        #done = int(raw_input("how many done? "))
         f = open('movies.txt', 'r')
         g = open('moviesToVisit.txt', 'r')
+        d = open('done.txt','r')
         moviesDict = json.load(f)
         moviesToVisit = json.load(g)
+        done = int(d.read())
         f.close()
         g.close()
 
@@ -274,8 +288,7 @@ while True:
             makeListOfAllMovies()
         else:
             # i = raw_input("are you sure you want to start over?")
-            # start()
-            pass        
+            start()        
 
     except Exception as e:
         print_error("ERROR")
