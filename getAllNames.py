@@ -59,9 +59,9 @@ def getAllEmMovies():
 # moviesDict = json.load(f)
 # f.close()
 
-link = 'https://solarmoviez.to/top-imdb/movie/page-103.html'
+link = 'https://solarmoviez.to/top-imdb/movie/page-332.html'
 allMovies = []
-currentPage = 117
+currentPage = 332
 
 g = open('allMovieLinks.txt', 'r')
 allMovies = json.load(g)

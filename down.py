@@ -1,3 +1,6 @@
+#download movies from movies.txt
+#basically from dictionary with name, link to movie
+
 import json
 
 from selenium import webdriver
