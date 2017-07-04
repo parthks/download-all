@@ -1,7 +1,5 @@
-#download movies from allMovieLinks.txt
-#basically from an array of movie links
-#essentially the exact same as down.py
-#allMovieLinks.txt is descending IMBD ratings
+#download movies from movies.txt
+#basically from dictionary with name, link to movie
 
 import json
 
@@ -61,10 +59,15 @@ def hook(arg1, arg2, arg3):
 
 # raw_input("hi STOP!")
 
-f = open('allMovieLinks.txt', 'r')
-allMovieLinks = json.load(f)
+f = open('sortedByRating.txt', 'r')
+movies = json.load(f)
 f.close()
 
+f = open('movies.txt', 'r')
+moviesDict = json.load(f)
+f.close()
+
+currentRating = 8.9
 counter = 0
 doneMovies = []
 
@@ -92,7 +95,7 @@ def logError(name):
 def get_movie(name, link):
     global driver
     driver = webdriver.Chrome('/usr/local/bin/chromedriver', chrome_options=chrome_options)
-    print_success("Started Chrome!! YAYY")
+    print("Started Chrome!! YAYY")
 
     driver.get(link)
     movieLink = driver.find_element_by_class_name('bwac-btn').get_attribute("href")
@@ -108,7 +111,7 @@ def get_movie(name, link):
     dl = driver.find_element_by_id("olvideo_html5_api").get_attribute("src")
 
     
-    print_warning("starting download!")
+    print("starting download!")
     subprocess.call("mkdir '"+str(name)+"'", shell=True)
     #subprocess.call("cd '"+str(name)+"'/", shell=True)
     time.sleep(0.5)
@@ -116,7 +119,7 @@ def get_movie(name, link):
     file = wget.download(dl)
     #urllib.urlretrieve(dl, str(name)+'.mp4', hook)
 
-    print_success("finished downloading!")
+    print("finished downloading!")
     subprocess.call("mv "+ file + " '"+str(name)+"'/'"+str(name)+"'.mp4", shell=True)
     logMovie(name)
     driver.quit()
@@ -140,36 +143,47 @@ for line in f:
 f.close()
 
 
-#print doneMovies
+print doneMovies
 
 
-while len(allMovieLinks) > counter:
-    
-    link = allMovieLinks[counter]
-    name = link.split('/')[-1].split('.')[0]
-    print name
-    print_warning("current counter at "+str(counter))
-    counter += 1
-
-    if (name+'\n') in doneMovies:
-        print_success("already done, yay!")
+while currentRating > 8:
+    imbd = ''+str(currentRating)+''
+    if not imbd in movies:
+        currentRating -= 0.1
         continue
+    else:
+        moviesForRating = movies[imbd]
+        #print(len(moviesForRating))
 
-    try:
-        get_movie(name,link)
-        upload_movie(name)
-    except Exception as e:
-        print_error("some error :P")
-        print_warning(e)
-        logError(name)
-        try:
-            driver.quit()
-        except Exception as i:
-            pass
-        continue
- 
+        for movie in moviesForRating:
+            movie = movie.items()
+            name = movie[0][0]
+            link = movie[0][1]
+            print name
+            print("current rating at "+str(currentRating))
+            print counter
+            counter += 1
 
-print_success("OMG ALL DONE HAHAHAH!!!")
+            if (name+'\n') in doneMovies:
+                print("already done, yay!")
+                continue
+
+            try:
+                get_movie(name,link)
+                upload_movie(name)
+            except Exception as e:
+                print("some error :P")
+                print(e)
+                print("some error :P")
+                logError(name)
+                try:
+                    driver.quit()
+                except Exception as i:
+                    pass
+                continue
+            
+
+    currentRating -= 0.1
 
 
 
